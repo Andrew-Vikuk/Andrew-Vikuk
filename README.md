@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **andriy.vikuk@gmail.com**
 
-- 🔥 My Greatest Power [I can learn stuffs very quickly & implement on demand !](I can learn stuffs very quickly & implement on demand !)
+- 🔥 My Greatest Power I can learn stuffs very quickly & implement on demand !
 
 - ⚡ Fun fact **I love to watch Harry Potter...:P**
 
