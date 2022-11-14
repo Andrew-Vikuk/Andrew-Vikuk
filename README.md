@@ -29,6 +29,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andrew-vikuk&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="andrew-vikuk" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andrew-vikuk&show_icons=true&locale=en" alt="andrew-vikuk" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andrew-vikuk&show_icons=true&locale=en&theme=tokyonight" alt="andrew-vikuk" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andrew-vikuk&" alt="andrew-vikuk" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andrew-vikuk&theme=tokyonight" alt="andrew-vikuk" /></p>
