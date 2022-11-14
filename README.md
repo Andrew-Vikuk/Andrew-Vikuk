@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/андрій вікук](https://www.linkedin.com/in/%D0%B0%D0%BD%D0%B4%D1%80%D1%96%D0%B9-%D0%B2%D1%96%D0%BA%D1%83%D0%BA-ab1b72243/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="андрій вікук" height="30" width="40" /></a>
+<a href="linkedin.com/in/андрій-вікук-ab1b72243" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="андрій вікук" height="30" width="40" /></a>
 <a href="https://instagram.com/vikuk.andriy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vikuk.andriy" height="30" width="40" /></a>
 <a href="https://discord.gg/3720" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="3720" height="30" width="40" /></a>
 </p>
