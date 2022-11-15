@@ -15,7 +15,7 @@
 
 - 🔥 My Greatest Power I can learn stuffs very quickly & implement on demand !
 
-- ⚡ Fun fact **I love to watch Harry Potter...:P**
+- ⚡ Fun fact **I love to watch Harry Potter...:D**
 
 
 
